@@ -1,4 +1,4 @@
-## Bienvenue sur mon profil 👋 
+## 🌻 Bienvenue sur mon profil 🌻
 
 Mes projets : 
 - Réalisation d'articles pour le site de BookiBox et contribution au référencement du site (https://lamer-remi.go.yj.fr/)
